@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/znen">
+        <file>doctor_service_zh_CN.qm</file>
+        <file>doctor_service_en_UK.qm</file>
+    </qresource>
+</RCC>

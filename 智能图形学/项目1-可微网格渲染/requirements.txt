@@ -1,0 +1,6 @@
+jittor
+jrender
+tqdm
+numpy
+imageio
+Pillow

@@ -1,0 +1,13 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.java text eol=lf
+*.cpp text eol=lf
+*.cu text eol=lf
+*.h text eol=lf
+*.v text eol=lf
+*.sql text eol=lf
+*.cmd text eol=crlf
+*.png binary
+*.jpg binary
+*.qm binary

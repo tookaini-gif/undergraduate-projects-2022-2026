@@ -1,0 +1,8 @@
+# Put your licensed dataset under this directory, or replace path locally.
+path: ./data
+train: train/images
+val: val/images
+test: test/images
+names:
+  0: weed
+  1: crop

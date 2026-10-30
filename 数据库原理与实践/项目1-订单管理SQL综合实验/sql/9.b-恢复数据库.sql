@@ -1,0 +1,2 @@
+-- These are terminal commands, not SQL. See README for PowerShell-safe backup instructions.
+-- mysql -u root -p undergraduate_orders_demo < {本地路径}\undergraduate_orders_demo.sql
