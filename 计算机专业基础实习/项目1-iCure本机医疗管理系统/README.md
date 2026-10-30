@@ -32,7 +32,7 @@ python -m unittest discover -s tests -v
 
 ## 来源与整理边界
 
-iCure-Windows；原 Qt 团队为 Ku Yee Siang、Xu Jian Fa、Guo Gui Ying、Tu Kai Nee（涂恺倪）、Bee Jun Rong。
+iCure-Windows；原 Qt 团队为 Ku Yee Siang、Xu Jian Fa、Guo Gui Ying、Too Kai Ni（涂恺倪）、Bee Jun Rong。
 
 本仓库于 2026-10-30 整理。补全与重构属于此次维护，不反推为 2022–2026 年期间已完成的工作；原始版本统一收在 `legacy/`（如有）。完整验证范围见[验证记录](../../docs/VALIDATION.md)，署名与上游说明见[来源声明](../../THIRD_PARTY_NOTICES.md)。
 
